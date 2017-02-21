@@ -1,0 +1,12 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather forecast",
+  "main": "index.html",
+  "author": "Punith",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-uglify": "^2.1.0"
+  }
+}
